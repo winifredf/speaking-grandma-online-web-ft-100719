@@ -3,6 +3,8 @@ speak_to_grandma = "I love you grandma!"
   if  speak_to_grandma == "I LOVE YOU GRANDMA!"
     puts "HI, GRANDMA!"
   
+  else
+  
   elseif  speak_to_grandma == 
     puts "HUH?! SPEAK UP, SONNY!"
 end
