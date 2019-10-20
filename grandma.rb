@@ -5,7 +5,8 @@ speak_to_grandma = "I love you grandma!"
   
   else puts "HUH?! SPEAK UP, SONNY!"
   
-  elseif  speak_to_grandma == 
+  elseif speak_to_grandma == "WHEN WERE YOU BORN?"
+    
     
 end
 
