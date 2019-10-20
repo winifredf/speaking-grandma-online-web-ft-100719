@@ -8,10 +8,10 @@ end
   
 if speak_to_grandma == "WHEN WERE YOU BORN?"
   puts "NO, NOT SINCE 1938!"
+end
 
-elseif 
 
-  if  speak_to_grandma == "I LOVE YOU GRANDMA!"
+if  speak_to_grandma == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
   
   else  "what did you say?"
