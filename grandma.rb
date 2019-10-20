@@ -4,11 +4,9 @@ speak_to_grandma = "I love you grandma!"
     puts "HI, GRANDMA!"
   
   else puts "HUH?! SPEAK UP, SONNY!"
-  
-  elseif speak_to_grandma == "WHEN WERE YOU BORN?"
-    
-    
 end
+  
+speak_to_grandma == "WHEN WERE YOU BORN?"
 
   if  speak_to_grandma == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
