@@ -13,7 +13,8 @@ end
 speak_to_grandma == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
   
-  else  "what did you say?"
+  elseif speak_to_grandma = "I LOVE YOU GRANDMA!"
+    puts "I LOVE YOU TOO PUMPKIN!"
 end
 
 
