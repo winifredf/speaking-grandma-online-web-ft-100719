@@ -6,7 +6,7 @@ speak_to_grandma = "I love you grandma!"
   else puts "HUH?! SPEAK UP, SONNY!"
 end
   
-speak_to_grandma == "WHEN WERE YOU BORN?"
+puts speak_to_grandma == "WHEN WERE YOU BORN?"
 
   if  speak_to_grandma == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
